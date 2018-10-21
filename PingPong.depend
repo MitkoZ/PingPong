@@ -1,0 +1,65 @@
+# depslib dependency file v1.0
+1540149785 source:d:\university\2ra grupa\computer graphics\pingpong\main.cpp
+	<iostream>
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	"Player.h"
+	"Ball.h"
+	"Constants.hpp"
+
+1540142269 source:d:\university\2ra grupa\computer graphics\pingpong\src\player.cpp
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	"Player.h"
+	"../Constants.hpp"
+
+1540141972 d:\university\2ra grupa\computer graphics\pingpong\include\player.h
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+881808080 c:\my files\glut\glutdlls36\glut.h
+	<windows.h>
+	<GL/gl.h>
+	<GL/glu.h>
+
+1540148196 source:d:\university\2ra grupa\computer graphics\pingpong\src\ball.cpp
+	"Ball.h"
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	<Player.h>
+	"../Constants.hpp"
+	<iostream>
+
+1540148754 d:\university\2ra grupa\computer graphics\pingpong\include\ball.h
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	<Player.h>
+
+1540129600 source:d:\university\2ra grupa\computer graphics\pingpong\src\constants.cpp
+	"Constants.h"
+
+1540130287 d:\university\2ra grupa\computer graphics\pingpong\include\constants.h
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+1540130729 source:d:\university\2ra grupa\computer graphics\pingpong\constants.cpp
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+1540142562 d:\university\2ra grupa\computer graphics\pingpong\constants.hpp
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+1540131468 d:\university\2ra grupa\computer graphics\pingpong\constants.h
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
