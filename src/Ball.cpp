@@ -113,7 +113,6 @@ void Ball::moveBall(GLint value)
 {
     checkIsPlayerHit();
     checkIsHitWall();
-//    checkIsScore();
 
     switch (moveDirectionEnum)
     {

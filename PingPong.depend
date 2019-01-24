@@ -20,7 +20,7 @@
 	<GL\glu.h>
 	<C:\My Files\GLUT\glutdlls36\glut.h>
 
-881808080 c:\my files\glut\glutdlls36\glut.h
+881804480 c:\my files\glut\glutdlls36\glut.h
 	<windows.h>
 	<GL/gl.h>
 	<GL/glu.h>
@@ -62,4 +62,45 @@
 	<GL\gl.h>
 	<GL\glu.h>
 	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+1548330661 source:c:\users\pc\desktop\pingpong\main.cpp
+	<iostream>
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	"Player.h"
+	"Ball.h"
+	"Constants.hpp"
+
+1548330036 c:\users\pc\desktop\pingpong\include\player.h
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+1548330036 c:\users\pc\desktop\pingpong\include\ball.h
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	<Player.h>
+
+1548330036 c:\users\pc\desktop\pingpong\constants.hpp
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+
+1548330262 source:c:\users\pc\desktop\pingpong\src\ball.cpp
+	"Ball.h"
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	<Player.h>
+	"../Constants.hpp"
+	<iostream>
+
+1548330036 source:c:\users\pc\desktop\pingpong\src\player.cpp
+	<GL\gl.h>
+	<GL\glu.h>
+	<C:\My Files\GLUT\glutdlls36\glut.h>
+	"Player.h"
+	"../Constants.hpp"
 

@@ -49,7 +49,11 @@ void keyboardHandler(unsigned char key, int x, int y)
         }
         case 32: //spacebar
         {
-            ball = new Ball(bottomPlayer->getLeftX() , bottomPlayer->getRightY() -1, bottomPlayer, topPlayer);
+            if(!ball) //release a new ball only when the current ball's pointer is deleted (out of the screen)
+            {
+                ball = new Ball(bottomPlayer->getLeftX() , bottomPlayer->getRightY() -1, bottomPlayer, topPlayer);
+                glutPostRedisplay();
+            }
             break;
         }
     }
